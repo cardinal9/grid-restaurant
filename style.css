@@ -9,7 +9,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/Images/empty-store-facade-with-lighted-fixtures-1449773.jpg);
+    background-image: url(/grid-restaurant/Images/empty-store-facade-with-lighted-fixtures-1449773.jpg);
 }
 
 .headline {
@@ -22,7 +22,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    background-image: url(/Images/empty-store-facade-with-lighted-fixtures-1449773.jpg);
+    background-image: url(/grid-restaurant/Images/empty-store-facade-with-lighted-fixtures-1449773.jpg);
 }
 
 .navbar {
@@ -79,20 +79,20 @@ p {
 
 @font-face {
     font-family: Allura-Regular;
-    src: url(/Fonts/Allura-Regular.otf);
+    src: url(/grid-restaurant/Fonts/Allura-Regular.otf);
 }
 
 @font-face {
     font-family: AquilineTwo;
-    src: url(/Fonts/AquilineTwo.ttf);
+    src: url(/grid-restaurant/Fonts/AquilineTwo.ttf);
 }
 
 @font-face {
     font-family: Archivo;
-    src: url(/Fonts/Archivo-Medium.ttf);
+    src: url(/grid-restaurant/Fonts/Archivo-Medium.ttf);
 }
 
 @font-face {
     font-family: Cousine;
-    src: url(/Fonts/Cousine-Regular.ttf);
+    src: url(/grid-restaurant/Fonts/Cousine-Regular.ttf);
 }
